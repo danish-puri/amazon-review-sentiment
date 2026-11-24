@@ -14,3 +14,7 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Private notes, kept on my Mac only
+CLAUDE.md
+misc.md
