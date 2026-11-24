@@ -6,19 +6,15 @@ The star rating is the answer key. One or two stars counts as negative, three co
 
 ## Running it
 
-The notebook is `notebooks/vader_vs_roberta.ipynb` and it runs online, so nothing gets downloaded to my laptop.
+The notebook is `notebooks/vader_vs_roberta.ipynb` and it runs online.
 
-On Kaggle I import the notebook, add the Amazon Fine Food Reviews dataset with Add Input, turn on Internet in the settings, and run all cells.
+On Kaggle import the notebook, add the Amazon Fine Food Reviews dataset with Add Input, turn on Internet in the settings, and run all cells.
 
-On Colab I open the notebook from GitHub and run all cells. It downloads the dataset into the Colab session by itself.
+On Colab open the notebook from GitHub and run all cells. It downloads the dataset into the Colab session by itself.
 
-[Open in Colab](https://colab.research.google.com/github/danish-puri/amazon-review-sentiment/blob/main/notebooks/vader_vs_roberta.ipynb)
+[Open in Colab](https://colab.research.google.com/github/danish-puri/amazon-review-sentiment/blob/main/notebooks/vader_vs_roberta.ipynb).
 
-## Next
-
-I plan to add Claude, GPT, and Gemini and compare all five models on accuracy, cost, and speed.
+add Claude, GPT, and Gemini API and compare all five models on accuracy, cost, and speed.
 
 ## Sources
-
-- [Kaggle tutorial by Rob Mulla](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial)
 - [Amazon Fine Food Reviews dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
